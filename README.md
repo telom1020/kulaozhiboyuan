@@ -1,6 +1,6 @@
 ## 免服务器【worker版本】直播订阅
 ## 在原基础`TXT`格式订阅，添加`M3U`格式订阅
-针对不同类似壳子订阅使用的格式，提供两种格式部署脚本
+针对不同类型壳子订阅使用的格式，提供两种格式部署脚本
 ## TXT部署`worker.js`
 ## M3U部署`workerm3u.js`
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/10.jpg)
